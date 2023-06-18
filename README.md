@@ -5,7 +5,7 @@ I am a machine learning researcher  & data scientist. My research focuses on dev
 I am passionate about data and believe in AI's power to improve people's lives. I want to transfer my passion to others and guide them into this vast field through writing, teaching, and mentoring.
 
 ### You can find my project and previous work here: ###
-#### [Data Science Portoflio](https://github.com/h-muhammed/Machine-learning-portfolio) ##
+#### [Data Science Portoflio](https://github.com/h-muhammed/Machine-learning-portfolio/tree/feature/develop) ##
 
 
 
@@ -21,9 +21,9 @@ I am passionate about data and believe in AI's power to improve people's lives. 
 
 | Topic  | Summary |
 | ------------- | ------------- |
-| [Data Science Portoflio](https://github.com/h-muhammed/Machine-learning-portfolio) |My data science skill based portoflio |
-|[Data Science Interview Preperation Resources](https://github.com/youssefHosni/Data-Science-Interview-Preperation)  |Resoruce to help you to prepare for your comming data science interviews|
-| [Data-Science-Educational-Resoruces](https://github.com/youssefHosni/Data-Science-Educational-Resoruces) | Data science resources that cover all the data sciene theoretical and practical skills.|
+| [Data Science Portoflio](https://github.com/h-muhammed/Machine-learning-portfolio/tree/feature/develop) |My data science skill based portoflio |
+|[Data Science Interview Preperation Resources](https://github.com/h-muhammed/Data-Science-Interview-Preperation-Resources)  |Resoruce to help you to prepare for your comming data science interviews|
+| [Data-Science-Educational-Resoruces](https://github.com/h-muhammed/awesome-machine-learning) | Data science resources that cover all the data sciene theoretical and practical skills.|
 
 
 
