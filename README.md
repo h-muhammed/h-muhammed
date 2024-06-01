@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Hossain Muhammad Ibn Ahmad 👋</h1> 
+<h1 align="left">Hi, I'm Hossain Md Saddam 👋</h1> 
 
 I am a machine learning researcher  & data scientist. My research focuses on developing real-time computer vision and natural language processing algorithms for real-world solution applications. I also worked as a machine learning engineer for about 3 years in the image processing, language processing, and forecasting domains.
  
