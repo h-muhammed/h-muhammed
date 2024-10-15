@@ -22,9 +22,8 @@
 - GitHub: [your-github-profile](https://github.com/IT22609212)
 
 😄 Pronouns: ...  
-- He/Him  
-)
-
+- He/Him
+  
 ⚡ Fun fact: ...  
 - I love exploring new places and am passionate about sustainable technology!  
 - In my free time, I enjoy working on personal projects and contributing to the open-source community.  
