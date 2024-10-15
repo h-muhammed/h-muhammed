@@ -7,6 +7,7 @@
 - Developing mobile and web applications  
 
 🌱 I’m currently learning ...  
+-I’m currently an undergraduate in SLIIT pursuating an SE degree
 - Advanced concepts in Flutter and Dart  
 - Backend development with Spring Boot and .NET Core  
 - Database management with PostgreSQL, MSSQL, and MongoDB  
