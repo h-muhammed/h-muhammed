@@ -19,9 +19,9 @@
 - Projects that have a social impact  
 
 📫 How to reach me ...  
-- Email: [your-email@example.com](hmuhammed9771@gmail.com)  
-- LinkedIn: [your-linkedin-profile](https://linkedin.com/in/hussain-muhammed-mhd9771)  
-- GitHub: [your-github-profile](https://github.com/IT22609212)
+- Email: (hmuhammed9771@gmail.com)  
+- LinkedIn: [My-linkedin-profile](https://linkedin.com/in/hussain-muhammed-mhd9771)  
+- GitHub: [My-github-profile](https://github.com/IT22609212)
 
 😄 Pronouns: ...  
 - He/Him
