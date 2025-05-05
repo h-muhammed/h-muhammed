@@ -21,7 +21,7 @@
 📫 How to reach me ...  
 - Email: hmuhammed9771@gmail.com  
 - LinkedIn: [My-linkedin](https://linkedin.com/in/hussain-muhammed-mhd9771)  
-- GitHub: [My-github](https://github.com/IT22609212)
+- GitHub: [My-github](https://github.com/h-muhammed)
 
 😄 Pronouns: ...  
 - He/Him
