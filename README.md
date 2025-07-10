@@ -1,59 +1,107 @@
-👋 Hi, I’m @muhammed.h
+<h1 align="center">Hi there, I'm Hussain Muhammed 👋</h1>
 
-👀 I’m interested in ...  
-- Building scalable and efficient software systems  
-- Learning new technologies and frameworks  
-- Contributing to open-source projects  
-- Developing mobile and web applications  
+<p align="center">
+  🚀 Software Engineering Undergraduate | 💻 Flutter & Web Developer | 🌱 Passionate about Tech & Innovation
+</p>
 
-🌱 I’m currently learning ...  
--I’m currently an undergraduate in SLIIT pursuating an SE degree
-- Advanced concepts in Flutter and Dart  
-- Backend development with Spring Boot and .NET Core  
-- Database management with PostgreSQL, MSSQL, and MongoDB  
-- Frontend frameworks like React and Angular  
+---
 
-💞️ I’m looking to collaborate on ...  
-- Open-source projects related to mobile app development, web development, and backend systems  
-- Innovative solutions in the field of waste management and IoT systems  
-- Projects that have a social impact  
+### 👨‍💻 About Me
 
-📫 How to reach me ...  
-- Email: hmuhammed9771@gmail.com  
-- LinkedIn: [My-linkedin](https://linkedin.com/in/hussain-muhammed-mhd9771)  
-- GitHub: [My-github](https://github.com/h-muhammed)
+- 🎓 Final-year Software Engineering undergraduate at SLIIT  
+- 🔧 Passionate about building scalable **mobile** and **web applications**
+- 📱 Experienced in developing cross-platform apps using **Flutter** for Android, iOS & Web  
+- 🌐 Skilled in **full-stack web development** using React.js, Node.js, and Firebase  
+- ☁️ Familiar with **cloud services** like Azure & Firebase  
+- 🛠️ Backend experience with **.NET Core**, **Spring Boot**, and **Microservices Architecture**  
+- 🧠 Always eager to learn and explore new technologies
 
-😄 Pronouns: ...  
-- He/Him
-  
-⚡ Fun fact: ...  
-- I love exploring new places and am passionate about sustainable technology!  
-- In my free time, I enjoy working on personal projects and contributing to the open-source community.  
+---
 
-### Technologies I've worked with:
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+### 🚧 Projects Worth Noting
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
-![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?logo=.net&logoColor=white&style=flat)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
+- **📦 Selfcare App** – Flutter app published on Play Store & App Store (also available as a web app)
+- **🍱 TastyTrail (Food Delivery System)** – Full-stack system with Flutter, Node.js, Docker, and microservices
+- **📲 Collection App** – Real-time financial collection tracker using Flutter + SMS integration
+- **🧵 Textile Management System** – React + MongoDB based inventory and pricing dashboard
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
-![MSSQL](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white&style=flat)
+> [🔗 View My Projects](https://github.com/h-muhammed)
 
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+---
 
+### 🌟 What I'm Currently Exploring
 
-<!---
-IT22609212/IT22609212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Flutter Web & Firebase Hosting  
+- Backend APIs using .NET Core & Spring Boot  
+- PostgreSQL, MSSQL, MongoDB optimization  
+- CI/CD and Docker-based deployment  
+- Building modern UIs with TailwindCSS and Material UI  
+
+---
+
+### 🤝 Open to Collaborate On
+
+- Flutter-based mobile or web apps  
+- React / Node.js full-stack projects  
+- Open-source tools that solve real-world problems  
+- Community-driven, social-impact apps  
+
+---
+
+### 📫 How to Reach Me
+
+- 📧 Email: hmuhammed9771@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/hussain-muhammed-mhd9771](https://linkedin.com/in/hussain-muhammed-mhd9771)  
+- 🌍 GitHub: [github.com/h-muhammed](https://github.com/h-muhammed)
+
+---
+
+### ⚙️ Tech Stack
+
+#### 🔹 Languages & Frameworks
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+
+#### 🔹 Web & Mobile
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?logo=.net&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)
+
+#### 🔹 Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
+
+#### 🔹 Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=h-muhammed&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-muhammed&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+### ⚡ Fun Fact
+I love exploring new technologies, contributing to the community, and building tools that solve real problems.
+
+---
+
+<!--
+✨ Special repo for GitHub profile.
+To customize your stats, visit: https://github.com/anuraghazra/github-readme-stats
+-->
