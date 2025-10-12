@@ -1,65 +1,71 @@
-<h1 align="center">Hussain Muhammed</h1>
-<p align="center"><b>Software Engineering Undergraduate | Flutter & Full-Stack Developer</b></p>
+<h1 align="center">Hi, I'm Hussain Muhammed 👋</h1>
+<p align="center">
+  <b>Software Engineering Undergraduate | Flutter & Full-Stack Developer | Innovator</b>
+</p>
 
 ---
 
-### 👨‍💻 About Me
-
-I am a final-year Software Engineering undergraduate at **SLIIT**, specializing in **cross-platform mobile** and **web application development**.  
-My interests lie in creating scalable, secure, and user-focused solutions using modern technologies across mobile, web, and cloud platforms.
-
-- 💡 Skilled in **Flutter**, **React.js**, **Node.js**, and **.NET Core**
-- 🌐 Experienced with **Firebase**, **Azure**, and **Dockerized backends**
-- 🧠 Focused on building impactful projects with clean architecture and real-world applicability
-- 📚 Actively exploring **AI integration**, **microservices**, and **cloud-native applications**
+### 🧑‍💻 About Me
+🎓 Final-year Software Engineering undergraduate at **SLIIT**  
+💡 Building scalable and secure mobile & web solutions with a focus on usability and performance  
+📱 Experienced in **Flutter**, **React**, and **Node.js**  
+☁️ Comfortable working with **Azure**, **Firebase**, and **Docker**  
+🧠 Currently exploring **AI-driven applications** and **microservice-based architectures**
 
 ---
 
 ### 🚀 Featured Projects
 
-**TheraTalk (AI-Powered Speech Therapy App)**  
-> Mobile app designed to support children with speech sound disorders through AI-based speech error detection, gamified exercises, and guardian monitoring.
+#### 🗣️ [TheraTalk](https://github.com/h-muhammed)  
+AI-powered speech therapy app offering gamified exercises and real-time speech error detection for children.  
+`Flutter` · `Firebase` · `TensorFlow` · `Python`
 
-**Masjid Data Maintenance System**  
-> A SaaS platform enabling Sri Lankan mosques to manage member details, finances, and subscriptions efficiently through a centralized management dashboard.
+#### 🕌 Masjid Data Maintenance System  
+Subscription-based management system for Sri Lankan mosques to manage members, finances, and staff details.  
+`MERN Stack` · `JWT Auth` · `Node.js` · `MongoDB`
 
-**Selfcare App**  
-> A Flutter-based health & lifestyle application available on Play Store and App Store, offering integrated user authentication, analytics, and API-driven features.
+#### 💊 Selfcare App  
+Cross-platform health and wellness app published on **Play Store** & **App Store**, featuring secure APIs and analytics.  
+`Flutter` · `Firebase` · `REST APIs`  
 
-> 🔗 [View All Projects](https://github.com/h-muhammed)
-
----
-
-### 🧰 Technical Skills
-
-**Languages & Frameworks:**  
-Flutter · Dart · React · Node.js · .NET Core · Java · Python · Spring Boot  
-
-**Databases:**  
-PostgreSQL · MongoDB · MSSQL · Firebase · Oracle  
-
-**Tools & Platforms:**  
-Git · Docker · VS Code · Azure · Firebase Hosting  
+> 🔗 [See All Projects →](https://github.com/h-muhammed)
 
 ---
 
-### 📈 Current Focus
+### ⚙️ Tech Stack
 
-- Flutter Web & Firebase Integration  
-- API Development using .NET Core and Spring Boot  
-- CI/CD Pipelines and Docker Deployment  
-- Modern UI Design using TailwindCSS and Material UI  
+#### 🧩 Languages & Frameworks
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat&logo=.net&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+
+#### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+#### 🧰 Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
 ---
 
-### 🤝 Open to Collaborate On
-- Flutter-based mobile and web apps  
-- Full-stack systems (React / Node / .NET Core)  
-- Research and AI-integrated solutions  
+### 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=h-muhammed&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-muhammed&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
 ---
 
-### 📫 Contact
+### 📫 Connect With Me
 
 - 📧 **Email:** hmuhammed9771@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/hussain-muhammed-mhd9771](https://linkedin.com/in/hussain-muhammed-mhd9771)  
@@ -67,7 +73,4 @@ Git · Docker · VS Code · Azure · Firebase Hosting
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=h-muhammed&show_icons=true&theme=default" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-muhammed&layout=compact&theme=default" height="170">
-</p>
+<p align="center">⭐ “Code with purpose. Build for impact.”</p>
