@@ -38,8 +38,18 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
+
+### 🚀 DevOps & CI/CD
+
+- ⚙️ CI/CD pipelines using **GitHub Actions**
+- 🐳 Dockerized applications with multi-stage builds
+- 🔐 Secure secrets management using GitHub Secrets
+- ☁️ Cloud deployment using **Azure App Services / VM**
+- 🔄 Automated build, test, and deploy workflows
+- 📦 Environment-based configuration (dev / prod)
 
 ### 📊 GitHub Analytics
 
